@@ -1,5 +1,7 @@
 # fresh project
 
+It's deno fresh sample application.
+
 ### Usage
 
 Start the project:
